@@ -2,9 +2,9 @@
 title: 纵使相逢
 SEOTitle: George.Duan的博客 | 纵使相逢
 header-img: img/post-bg-desk.jpg
-email: duanshier@foxmail.com
+email: george.duanshier@gmail.com
 description: "蓬莱又还水浅，惊涛静见，银宫如许。"
-keyword: "George.Duan的博客, Java, JDK, javaWeb, Spring, Tomcat"
+keyword: "George.Duan的博客, technology & all "
 url: "https://george-duan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/George-Duan/George-Duan.github.io.git" # you code repository
